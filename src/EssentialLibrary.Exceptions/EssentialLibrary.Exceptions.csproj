@@ -2,10 +2,12 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <PackageId>amit-naik</PackageId>
     <Version>1.0.0</Version>
-    <Authors>chris_noring</Authors>
-    <Company>happy coder inc</Company>
+    <Authors>Amit Naik</Authors>
+    <Product>CoreEssentials</Product>
+    <Description>Expection handler nuget library</Description>
+    <Copyright>2020</Copyright>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
   </PropertyGroup>
 
   <ItemGroup>
